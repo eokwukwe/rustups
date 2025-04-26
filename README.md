@@ -1,3 +1,3 @@
-# rustprojects
+# rustups
 
 > Learning rust
